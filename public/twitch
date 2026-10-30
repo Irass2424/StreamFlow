@@ -1,0 +1,17 @@
+{
+  "type": "twitch",
+  "scopes": [
+    "user:read:email",
+    "channel:manage:broadcast",
+    "channel:read:subscriptions",
+    "moderator:read:followers",
+    "user:write:chat",
+    "user:read:chat",
+    "clips:edit",
+    "channel:manage:redemptions",
+    "bits:read",
+    "channel:read:hype_train",
+    "channel:moderate",
+    "moderation:read"
+  ]
+}
